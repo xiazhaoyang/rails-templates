@@ -1,4 +1,4 @@
-# Rails Templates with gem source of RubyChina.com
+# Rails Templates with gem source of ruby-china.org
 
 Quickly generate a rails app with the default [Wagon](https://www.lewagon.com) configuration
 using [Rails Templates](http://guides.rubyonrails.org/rails_application_templates.html).
