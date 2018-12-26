@@ -4,7 +4,7 @@ run 'pgrep spring | xargs kill -9'
 ########################################
 run 'rm Gemfile'
 file 'Gemfile', <<-RUBY
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com'
 ruby '#{RUBY_VERSION}'
 
 #{"gem 'bootsnap', require: false" if Rails.version >= "5.2"}
